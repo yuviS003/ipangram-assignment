@@ -1,0 +1,496 @@
+2024-05-26 10:51:16 warn: Login attempt with non-existing email: yuv@gmail.com3
+2024-05-26 10:51:58 info: Employee logged in: yuv@gmail.com
+2024-05-26 10:58:46 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 10:58:46 info: Fetched all departments
+2024-05-26 11:01:58 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:01:59 info: Created department: HR
+2024-05-26 11:02:01 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:02:01 warn: Department creation attempt with existing name: HR
+2024-05-26 11:04:16 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:04:17 info: Fetched all departments
+2024-05-26 11:04:48 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:04:48 info: Fetched department with ID: 6652c94fed8b8d5875bffa6e
+2024-05-26 11:14:26 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:14:27 info: Created department: HR
+2024-05-26 11:14:52 info: Employee registered: yuv@gmail.com
+2024-05-26 11:15:42 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:15:42 error: Cast to ObjectId failed for value "with-departments" (type string) at path "_id" for model "Department"
+2024-05-26 11:17:31 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:17:31 info: Created department: HR
+2024-05-26 11:17:49 info: Employee registered: yuv@gmail.com
+2024-05-26 11:17:55 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:17:55 error: Cast to ObjectId failed for value "with-departments" (type string) at path "_id" for model "Department"
+2024-05-26 11:17:56 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:17:56 error: Cast to ObjectId failed for value "with-departments" (type string) at path "_id" for model "Department"
+2024-05-26 11:30:01 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 11:30:02 info: Created department: HR
+2024-05-26 11:30:16 info: Employee registered: yuv@gmail.com
+2024-05-26 11:31:54 warn: Authorization denied: No token provided
+2024-05-26 11:32:30 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 11:32:30 info: Fetched all employees with department details
+2024-05-26 12:48:17 info: Employee logged in: yuv@gmail.com
+2024-05-26 12:49:35 info: Employee logged in: yuv@gmail.com
+2024-05-26 12:52:25 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 12:52:25 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 12:52:25 info: Fetched all employees with department details
+2024-05-26 12:52:25 info: Fetched all employees with department details
+2024-05-26 12:54:44 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 12:54:44 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 12:54:44 info: Fetched all employees with department details
+2024-05-26 12:54:44 info: Fetched all employees with department details
+2024-05-26 12:55:00 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 12:55:00 info: Fetched all employees with department details
+2024-05-26 13:00:22 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:00:22 info: Fetched all employees with department details
+2024-05-26 13:06:51 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:06:51 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:06:51 info: Fetched all employees with department details
+2024-05-26 13:06:51 info: Fetched all employees with department details
+2024-05-26 13:07:20 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:07:20 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:07:20 info: Fetched all employees with department details
+2024-05-26 13:07:20 info: Fetched all employees with department details
+2024-05-26 13:07:22 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:07:22 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:07:22 info: Fetched all employees with department details
+2024-05-26 13:07:22 info: Fetched all employees with department details
+2024-05-26 13:07:56 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:07:56 info: Fetched all employees with department details
+2024-05-26 13:08:24 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:08:24 info: Fetched all employees with department details
+2024-05-26 13:08:32 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:08:32 info: Fetched all employees with department details
+2024-05-26 13:19:19 info: Employee registered: yuv@gmail.com
+2024-05-26 13:20:09 info: Authorization successful for employee ID: 6652c59dc42f0c693470738e
+2024-05-26 13:20:09 info: Created department: HR
+2024-05-26 13:20:31 info: Employee registered: yuv@gmail.com
+2024-05-26 13:20:43 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:20:44 info: Fetched all employees with department details
+2024-05-26 13:21:27 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:21:27 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:21:27 info: Fetched all employees with department details
+2024-05-26 13:21:27 info: Fetched all employees with department details
+2024-05-26 13:23:23 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:23:23 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:23:23 info: Fetched all employees with department details
+2024-05-26 13:23:23 info: Fetched all employees with department details
+2024-05-26 13:33:13 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:33:13 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:33:17 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:33:17 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:33:17 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:33:17 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:33:20 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:33:20 info: Fetched all employees with department details, sorted by empContact in asc order
+2024-05-26 13:33:24 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:33:24 info: Fetched all employees with department details, sorted by empLocation in asc order
+2024-05-26 13:33:30 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:33:30 info: Fetched all employees with department details, sorted by empEmail in asc order
+2024-05-26 13:55:02 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:55:02 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:55:03 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:55:03 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:56:41 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:56:41 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:56:52 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:56:52 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:56:52 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:56:52 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:56:58 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:56:58 info: Fetched all employees with department details, sorted by empRole in asc order
+2024-05-26 13:57:00 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:57:01 info: Fetched all employees with department details, sorted by empLocation in asc order
+2024-05-26 13:58:37 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:58:37 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:59:08 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:59:09 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 13:59:19 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:59:19 info: Fetched all employees with department details, sorted by empName in asc order
+2024-05-26 13:59:21 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:59:21 info: Fetched all employees with department details, sorted by empName in desc order
+2024-05-26 13:59:21 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 13:59:22 info: Fetched all employees with department details, sorted by  in asc order
+2024-05-26 14:31:16 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:31:22 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:31:22 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:31:50 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:31:50 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:32:06 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:32:07 info: Created department: IT
+2024-05-26 14:32:07 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:32:16 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:32:16 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:32:16 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 14:32:16 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 14:32:19 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 14:32:19 info: Authorization successful for employee ID: 6652cfef0427b5eda4c5b54a
+2024-05-26 17:16:38 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\assignments\ipangram assignment\server\node_modules\jsonwebtoken\verify.js:70:17)
+    at module.exports (E:\assignments\ipangram assignment\server\middleware\authMiddleware.js:22:25)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:175:3)
+2024-05-26 17:16:38 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\assignments\ipangram assignment\server\node_modules\jsonwebtoken\verify.js:70:17)
+    at module.exports (E:\assignments\ipangram assignment\server\middleware\authMiddleware.js:22:25)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:175:3)
+2024-05-26 17:16:56 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\assignments\ipangram assignment\server\node_modules\jsonwebtoken\verify.js:70:17)
+    at module.exports (E:\assignments\ipangram assignment\server\middleware\authMiddleware.js:22:25)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:175:3)
+2024-05-26 17:16:56 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\assignments\ipangram assignment\server\node_modules\jsonwebtoken\verify.js:70:17)
+    at module.exports (E:\assignments\ipangram assignment\server\middleware\authMiddleware.js:22:25)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:175:3)
+2024-05-26 17:18:29 info: Employee logged in: yuv@gmail.com
+2024-05-26 17:18:34 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:18:35 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:18:35 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:18:36 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:18:36 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:18:36 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:18:39 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:18:39 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:18:40 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:18:40 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:18:40 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:18:40 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:19:10 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:19:39 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:20:10 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:20:10 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:20:21 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:21:04 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:21:19 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:24:55 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:24:55 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:28:05 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:31:11 warn: Login attempt with incorrect password for email: yuv@gmail.com
+2024-05-26 17:31:14 warn: Login attempt with incorrect password for email: yuv@gmail.com
+2024-05-26 17:33:21 warn: Login attempt with incorrect password for email: yuv@gmail.com
+2024-05-26 17:33:30 warn: Login attempt with incorrect password for email: yuv@gmail.com
+2024-05-26 17:34:18 warn: Login attempt with incorrect password for email: yuv@gmail.com
+2024-05-26 17:34:23 info: Employee logged in: yuv@gmail.com
+2024-05-26 17:53:18 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:53:18 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:53:20 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:53:20 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:53:20 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:53:20 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:53:21 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:53:21 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:54:56 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:54:56 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:00 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:00 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:00 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:55:00 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:55:01 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:01 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:03 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:03 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:04 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:55:04 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:55:04 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:04 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:09 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:09 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:09 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:55:09 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-26 17:55:12 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-26 17:55:12 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:28:56 info: Employee logged in: yuv@gmail.com
+2024-05-27 07:28:58 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:28:58 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:28:58 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:28:58 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:28:58 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:28:58 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:29:20 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:29:20 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:29:20 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:29:46 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:29:46 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:29:46 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:30:13 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:30:13 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:30:13 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:30:53 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:30:53 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:30:53 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:31:05 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:31:05 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:31:05 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:31:12 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:31:12 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:31:12 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:32:28 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:32:28 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:32:28 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:40:22 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:40:23 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:40:23 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:40:23 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:40:23 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:40:23 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:52:02 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:52:02 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:52:02 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 07:57:50 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:57:50 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 07:57:50 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:00:21 info: Employee registered: ayushman@gmail.com
+2024-05-27 08:00:21 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:21 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:00:30 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:30 info: Updated employee with ID: 6653f03d2dad4eedff82d1f5
+2024-05-27 08:00:30 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:30 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:00:43 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:43 info: Updated password for employee with ID: 6653f03d2dad4eedff82d1f5
+2024-05-27 08:00:47 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:47 info: Deleted employee with ID: 6653f03d2dad4eedff82d1f5
+2024-05-27 08:00:48 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:48 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:00:50 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:50 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:52 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:52 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:52 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:52 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:00:52 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:00:53 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:13:35 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:13:35 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:13:35 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:13:35 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:13:35 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:13:35 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:13:36 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:13:36 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:28:03 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:28:03 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:28:03 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:28:03 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:28:03 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:28:03 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 08:44:19 info: Authorization successful for employee ID: 6652e9c6d42c429a2c1d1ba8
+2024-05-27 08:46:28 warn: Login attempt with non-existing email: yuvraj@gmail.com
+2024-05-27 09:00:56 info: Employee registered: manager@gmail.com
+2024-05-27 09:01:28 info: Employee logged in: manager@gmail.com
+2024-05-27 09:02:42 info: Employee logged in: manager@gmail.com
+2024-05-27 09:03:34 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:03:34 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:06 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:12 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:12 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:12 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:12 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:12 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:04:12 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:04:53 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:53 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:04:54 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:04:54 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:05:18 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:18 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:18 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:18 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:18 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:18 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:18 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:05:18 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:05:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:29 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:29 info: Created department: IT
+2024-05-27 09:05:29 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:40 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:05:40 info: Created department: DevOps
+2024-05-27 09:05:40 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:06:13 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:06:17 info: Created department: R&D
+2024-05-27 09:06:17 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:06:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:06:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:06:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:06:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:06:19 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:06:19 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:07:02 info: Employee registered: employee1@gmail.com
+2024-05-27 09:07:02 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:07:02 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:07:26 info: Employee logged in: employee1@gmail.com
+2024-05-27 09:07:26 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:26 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:28 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:28 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:28 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:28 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:28 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:07:28 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:07:30 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:30 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:33 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:33 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:33 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:33 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:07:34 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:07:34 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:12:17 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:12:17 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:12:17 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:13:33 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:13:33 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:13:35 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:13:35 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:13:35 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:13:35 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:13:35 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:13:35 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:13:36 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:13:36 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:14:43 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:15:18 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:16:53 info: Employee logged in: manager@gmail.com
+2024-05-27 09:16:53 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:53 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:55 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:55 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:55 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:55 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:55 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:16:55 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:16:57 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:57 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:16:59 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:16:59 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:21:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:21:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:21:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:21:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:21:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:21:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:21:59 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:21:59 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:28:20 info: Employee logged in: manager@gmail.com
+2024-05-27 09:28:20 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:28:20 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:17 info: Employee logged in: manager@gmail.com
+2024-05-27 09:29:17 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:17 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:19 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:19 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:29:19 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:29:20 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:20 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:22 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:22 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:22 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:22 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:22 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:29:22 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:29:27 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:29:27 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:30:54 info: Employee logged in: manager@gmail.com
+2024-05-27 09:30:55 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:30:55 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:31:06 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:31:06 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:31:36 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:31:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:31:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:31:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:31:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:31:54 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:31:54 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:32:31 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:36 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:38 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:48 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:48 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:48 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:48 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:48 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:48 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:48 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:32:48 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:32:50 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:50 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:56 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:56 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:56 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:56 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:32:56 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:32:56 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:33:28 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:33:28 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:33:28 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:33:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:33:54 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:33:58 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:33:58 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:33:58 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:33:58 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:33:58 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:33:58 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:34:17 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:34:17 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:37:05 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:37:05 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:38:57 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:38:57 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:38:57 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:38:57 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:38:57 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:38:57 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:38:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:38:59 info: Authorization successful for employee ID: 6653fe7048dd1831f89e0295
+2024-05-27 09:39:12 info: Employee logged in: employee1@gmail.com
+2024-05-27 09:39:12 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:39:12 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:39:14 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:39:14 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:39:14 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:39:14 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:39:14 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:39:14 info: Fetched all employees with department details, sorted by undefined in undefined order
+2024-05-27 09:39:15 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf
+2024-05-27 09:39:15 info: Authorization successful for employee ID: 6653ffde48dd1831f89e02bf

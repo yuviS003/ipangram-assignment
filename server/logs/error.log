@@ -1,0 +1,47 @@
+2024-05-26 11:15:42 error: Cast to ObjectId failed for value "with-departments" (type string) at path "_id" for model "Department"
+2024-05-26 11:17:55 error: Cast to ObjectId failed for value "with-departments" (type string) at path "_id" for model "Department"
+2024-05-26 11:17:56 error: Cast to ObjectId failed for value "with-departments" (type string) at path "_id" for model "Department"
+2024-05-26 17:16:38 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\assignments\ipangram assignment\server\node_modules\jsonwebtoken\verify.js:70:17)
+    at module.exports (E:\assignments\ipangram assignment\server\middleware\authMiddleware.js:22:25)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:175:3)
+2024-05-26 17:16:38 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\assignments\ipangram assignment\server\node_modules\jsonwebtoken\verify.js:70:17)
+    at module.exports (E:\assignments\ipangram assignment\server\middleware\authMiddleware.js:22:25)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:175:3)
+2024-05-26 17:16:56 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\assignments\ipangram assignment\server\node_modules\jsonwebtoken\verify.js:70:17)
+    at module.exports (E:\assignments\ipangram assignment\server\middleware\authMiddleware.js:22:25)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:175:3)
+2024-05-26 17:16:56 error: JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\assignments\ipangram assignment\server\node_modules\jsonwebtoken\verify.js:70:17)
+    at module.exports (E:\assignments\ipangram assignment\server\middleware\authMiddleware.js:22:25)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\layer.js:95:5)
+    at E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\assignments\ipangram assignment\server\node_modules\express\lib\router\index.js:175:3)
